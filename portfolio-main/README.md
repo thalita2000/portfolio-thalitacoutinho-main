@@ -6,9 +6,9 @@
   Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira.
 </h4>
 
-![Resultado final do projeto](assets/image/preview.png)
+![Resultado final do projeto](https://media.discordapp.net/attachments/937707244265562125/952249679977017434/unknown.png?width=865&height=422)
 
-<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://portfolio-main/portfolio-main/index.html#s-about">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 O site é composto por 5 seções diferentes:
@@ -25,10 +25,8 @@ O site é composto por 5 seções diferentes:
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 - HTML;
-- Sass;
 - JavaScript;
-- ScrollReveal;
-- SVGInject;
+
 
 ---
 
@@ -36,10 +34,10 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+      <a href="https://avatars.githubusercontent.com/u/94943936?v=4">
+        <img src="https://avatars.githubusercontent.com/u/94943936?v=4"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Thalita Coutinho</b>
         </sub>
       </a>
     </td>
