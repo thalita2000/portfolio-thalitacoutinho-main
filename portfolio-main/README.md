@@ -8,7 +8,7 @@
 
 ![Resultado final do projeto](https://media.discordapp.net/attachments/937707244265562125/952249679977017434/unknown.png?width=865&height=422)
 
-<h4 align="center"><a href="https://portfolio-main/portfolio-main/index.html#s-about">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="[https://portfolio-main/portfolio-main/index.html#s-about](https://thalita2000.github.io/thalitacoutinho_portifolio/#s-projects)">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 O site é composto por 5 seções diferentes:
